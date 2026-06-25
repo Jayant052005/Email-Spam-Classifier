@@ -76,4 +76,4 @@ The project uses:
 - GitHub: https://github.com/Jayant052005
 
 ## 📜 License
--This project is developed for educational and learning purposes.
+- This project is developed for educational and learning purposes.
